@@ -1,4 +1,4 @@
-//n4.19
+//n4.19.
 package Lab3;
 import java.util.Scanner;
 
